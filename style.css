@@ -23,7 +23,9 @@ header{
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.288);
     margin-left: 0px;
     margin-bottom: 0px;
-  
+    
+    min-height: 170px;
+    max-height: 300px;
     
 }
 
@@ -76,7 +78,7 @@ main{
    max-width: 800px;
    min-width: 300px;
     margin: auto;
-   margin-top: 30px;
+    margin-top: 0px;
    padding: 20px;
    background-color: wheat;
    
