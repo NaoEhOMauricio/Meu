@@ -16,6 +16,7 @@
     padding: 0px;
 }
 header{
+    display: block;
     padding: 71px 0px;
     font-family: 'bebas Neue' ;
     background-image:linear-gradient(to top, var(--cor1), var(--cor0));
