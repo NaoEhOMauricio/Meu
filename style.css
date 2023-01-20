@@ -147,15 +147,12 @@ img.coracao{
 }
 
 div.trate{
-    
-    margin: 10px;
+    border: var(--bordapadrao);
+    background-color: white;
+    padding: 42px;
     border-radius: 0px 10px 0px 10px;
     box-shadow: var(--sombra);
-    text-indent: 15px;
-   font-family: var(--FontPadrao);
-    text-align: justify ;
-    
-    background-color: white;
+    margin: 10px;
 }
 footer{
     margin: 0px;
